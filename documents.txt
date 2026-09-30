@@ -1,0 +1,8 @@
+Python is a general-purpose programming language widely used in automation, data science, and artificial intelligence.
+PyTorch is an open-source machine learning framework used to build and train neural networks.
+Pandas provides data structures and tools for data analysis in Python.
+NumPy provides efficient multidimensional arrays and numerical computing tools for Python.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+Text embeddings represent text as numerical vectors so that semantically similar content can be compared.
+Retrieval-augmented generation combines document retrieval with a language model to provide relevant context for answers.
+Paris is the capital of France.
